@@ -21,6 +21,9 @@ gem 'coffee-rails', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 
 #STEVE ADDITIONS
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7' #styling
+
+
 #gem 'will_paginate', '3.0.7' # PAGINATION
 #gem 'bootstrap-will_paginate', '0.0.10' # BOOTSTRAP STYLING
 #gem 'bootstrap-sass', '~> 3.3.6' # BOOTSTRAP STYLING
